@@ -1,5 +1,5 @@
 # Pre-Processing-and-Sentiment-Predictions
-This repository consist of jupyter notebook showing the experiments conducted to create an RNN LSTM Model. Also it shows the prediction done on the collected data from Twitter.
+This repository consists of a Jupiter notebook showing the experiments conducted to create an RNN LSTM Model. Also, it shows the prediction done on the collected data from Twitter.
 
 Different files and their purpose:
 
